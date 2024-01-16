@@ -1,0 +1,132 @@
+[
+
+  {
+    "id": 1,
+    "title": "Insomniac",
+    "artist": "Green Day",
+    "type": "Soul",
+    "year": 1987
+
+  },
+
+  {
+    "id": 2,
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "type": "Rock",
+    "year": 1967
+  },
+
+  {
+    "id": 3,
+    "title": "Conspiracy of One",
+    "artist": "Offspring",
+    "type": "Pop",
+    "year": 1958
+  },
+
+  {
+    "id": 4,
+    "title": "Dead Silience",
+    "artist": "Billy Talent",
+    "type": "Soul",
+    "year": 1989
+  },
+
+  {
+    "id": 5,
+    "title": "ANThology",
+    "artist": "Alien Ant Farm",
+    "type": "Rock",
+    "year": 1992
+  },
+
+  {
+    "id": 6,
+    "title": "Enema of the State",
+    "artist": "Blink-182",
+    "type": "Pop",
+    "year": 1972
+  },
+
+  {
+    "id": 7,
+    "title": "Pennybridge Pioneers",
+    "artist": "Milencolin",
+    "type": "Jazz",
+    "year": 1994
+  },
+
+  {
+    "id": 8,
+    "title": "Chuck",
+    "artist": "Sum 41",
+    "type": "Pop",
+    "year": 1975
+  },
+
+  {
+    "id": 9,
+    "title": "The State",
+    "artist": "Nickelback",
+    "type": "Rock",
+    "year":1973
+  },
+
+  {
+    "id": 10,
+    "title": "Silver Side Up",
+    "artist": "Nickelback",
+    "type": "Rock",
+    "year": 1990
+  },
+
+  {
+    "id": 11,
+    "title": "Fallen",
+    "artist": "Evenescence",
+    "type": "Pop",
+    "year": 2000
+  },
+
+  {
+    "id": 12,
+    "title": "Scripted",
+    "artist": "Icon For Hire",
+    "type": "Rock",
+    "year": 2001
+  },
+
+  {
+    "id": 13,
+    "title": "Icon For Hire",
+    "artist": "Icon For Hire",
+    "type": "Jazz",
+    "year": 1975
+  },
+
+  {
+    "id": 14,
+    "title": "You Can't Kill Us",
+    "artist": "Icon For Hire",
+    "type": "Pop",
+    "year": 1996
+  },
+
+  {
+    "id": 15,
+    "title": "Sleeping With Ghosts",
+    "artist": "Placebo",
+    "type": "Metal",
+    "year": 2005
+  },
+
+  {
+    "id": 16,
+    "title": "Steal This Album",
+    "artist": "System of a Down",
+    "type": "Metal",
+    "year": 2010
+  }
+
+]
